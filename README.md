@@ -1,3 +1,4 @@
 # demo
-this is my first project
-author - azlan abdulla
+this is my first project.
+<br>
+Author - Azlan Abdulla
